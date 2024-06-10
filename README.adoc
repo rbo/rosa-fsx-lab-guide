@@ -1,4 +1,4 @@
-=== Lab guide to "ROSA FSx Workshop"
+=== Lab guide to "ROSA FSx Workshop" 
 
 Red Hat associates that have access to the Red Hat Demo Platform (RHDP) can launch the ROSA FSx Workshop for a lab environment.
 
